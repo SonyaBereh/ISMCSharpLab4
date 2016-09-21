@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonConsole", "PolygonConsole\PolygonConsole.csproj", "{9E7ADC74-C91A-4F78-9849-76098DAC2929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchProjectConsole", "SwitchProjectConsole\SwitchProjectConsole.csproj", "{51658C08-43AC-481D-9868-13C2BE69EE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7ADC74-C91A-4F78-9849-76098DAC2929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7ADC74-C91A-4F78-9849-76098DAC2929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7ADC74-C91A-4F78-9849-76098DAC2929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7ADC74-C91A-4F78-9849-76098DAC2929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51658C08-43AC-481D-9868-13C2BE69EE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51658C08-43AC-481D-9868-13C2BE69EE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51658C08-43AC-481D-9868-13C2BE69EE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51658C08-43AC-481D-9868-13C2BE69EE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
